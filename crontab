@@ -1,0 +1,2 @@
+# Sample crontab entries
+30 9 * * * packtpub_free.sh
